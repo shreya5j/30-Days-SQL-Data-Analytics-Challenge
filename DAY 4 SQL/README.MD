@@ -127,7 +127,7 @@ GROUP BY department_id
 HAVING AVG(salary) > 60000;
 ```
 
-✔️ Identifies high-paying departments
+ Identifies high-paying departments
 
 ---
 
